@@ -28,7 +28,7 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/Nejjari001/portfolio--react) to your local machine 
 - ```
   git clone git@github.com:Meri-MG/portfolio---react.git
   ```
@@ -47,14 +47,14 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+:woman: **Nejjari Abdelhafid**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/Nejjari001)
+- [LinkedIn](https://www.linkedin.com/in/nejjari-abdelhafid/)
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
+- Feel free to check the [issues page](https://github.com/Nejjari001/portfolio--react/issues).
 
 # Show your support
 Give a ⭐ if you like this project!
