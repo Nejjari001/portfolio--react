@@ -33,7 +33,7 @@
   git clone git@github.com:Nejjari001/portfolio--react.git
   ```
 
-- Navigate to `cd portfolio---react`  directory.
+- Navigate to `cd portfolio--react`  directory.
 
 - To install all the app dependencies on the command line run
 - ```
@@ -47,7 +47,7 @@
 
 ## Author
 
-:woman: **Nejjari Abdelhafid**
+:man: **Nejjari Abdelhafid**
 
 - [GitHub](https://github.com/Nejjari001)
 - [LinkedIn](https://www.linkedin.com/in/nejjari-abdelhafid/)
