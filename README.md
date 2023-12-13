@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://github.com/Nejjari001/portfolio--react/src/assets/port.png)
+![Portfolio](https://github.com/Nejjari001/portfolio--react/blob/main/src/assets/port.png)
 
 ## Built With
 
@@ -30,7 +30,7 @@
 
 - Clone this [repository](https://github.com/Nejjari001/portfolio--react) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git clone git@github.com:Nejjari001/portfolio--react.git
   ```
 
 - Navigate to `cd portfolio---react`  directory.
