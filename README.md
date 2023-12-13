@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Nejjari001/portfolio--react/master/src/assets/port.png)
+![Portfolio](https://github.com/Nejjari001/portfolio--react/src/assets/port.png)
 
 ## Built With
 
